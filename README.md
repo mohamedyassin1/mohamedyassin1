@@ -4,7 +4,7 @@ I'm a 3rd year Software Engineering student studying @ the University of Calgary
 Some more about me:
 
 ### 🔭 I’m currently working on ...
-* Currently, the project I'm most passionate about is a mental health assistance web application. I initially developed this as a desktop application with two wonderful team members(Dave Sharma and Angelo Gonzales) for a Hackathon to help mental health, but considering how much more accessible the web platform is, the goal is for us to release an improved web version of the application so that we can hopefully help people.
+* Currently, the project I'm most passionate about is a mental health assistance web application. I initially developed this as a desktop application with two wonderful team members (Dave Sharma and Angelo Gonzales) for a Hackathon to help mental health, but considering how much more accessible the web platform is, the goal is for us to release an improved web version of the application so that we can hopefully help people.
 
 ### 🌱 I’m currently learning ...
 * A lot! There are always new things to discover in the software industry so I am constantly learning new things. However, I tend to prioritize learning technologies based on what best fits my projects. Since my passion project is a user-experience first web application, I am learning React.js so that we can make the application user-friendly.
