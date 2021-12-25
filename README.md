@@ -1,4 +1,22 @@
-### Hi there 👋
+## Hey there, I'm Mohamed 👋
+I'm a 3rd year Software Engineering student studying @ the University of Calgary. Problem solving is something that I truly enjoy and it is a privilege to be learning about the field of software developent and tech.
+
+Here's some more interesting info:
+
+---
+### 🔭 I’m currently working on ...
+* Currently, the project I'm most passionate about is a mental health assistance web application. I initially developed this as a desktop application with two wonderful team members for a Hackathon to help mental health, but considering how much more accessible the web platform is, the goal is for us to release an improved web version of the application so that we can hopefully help people.
+
+### 🌱 I’m currently learning ...
+* A lot! There are always new things to discover in the software industry so I am constantly learning new things. However, I tend to prioritize learning technologies based on what best fits my projects. Since my passion project is a user-experience first web application, I am learning React.js so that I can make it the best it can be.
+
+### 💬 How to reach me: 
+* If you want to discuss any projects on my repos, software development or tech in general, feel free to connect with me on LinkedIn:
+  * [LinkedIn](https://www.linkedin.com/in/mohamed-yassin1/)
+
+---
+### ⚡ Some cool stats :)
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedyassin1&show_icons=true&theme=radical)](https://github.com/mohamedyassin1/github-readme-stats)
 
 <!--
 **mohamedyassin1/mohamedyassin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
