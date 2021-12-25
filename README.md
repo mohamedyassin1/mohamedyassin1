@@ -7,7 +7,7 @@ Some more about me:
 * Currently, the project I'm most passionate about is a mental health assistance web application. I initially developed this as a desktop application with two wonderful team members (Dave Sharma and Angelo Gonzales) for a Hackathon to help users manage their mental health, but considering how much more accessible the web platform is, the goal is for us to release an improved web version of the application so that we can reach a wider audience.
 
 ### 🌱 I’m currently learning ...
-* A lot! There are always new things to discover in the software industry so I am constantly learning new things. However, I tend to prioritize learning technologies based on what best fits my projects. Since my passion project is a user-experience first web application, I am learning React.js so that we can make the application user-friendly.
+* A lot! There are always new things to discover in the software industry so I am constantly learning new things. However, I tend to prioritize learning technologies based on what best fits my projects. Since my current focus is a user-experience first web application, I am learning React.js so that we can make the application user-friendly.
 
 ### 💬 How to reach me: 
 * If you want to discuss any projects on my repos, software development or tech in general, feel free to connect with me on LinkedIn:
