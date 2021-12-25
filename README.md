@@ -15,7 +15,7 @@ Some more about me:
   * [LinkedIn](https://www.linkedin.com/in/mohamed-yassin1/)
 
 ---
-### ⚡ Some cool stats :)
+### ⚡ Cool GitHub stats 
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedyassin1&show_icons=true&theme=radical)](https://github.com/mohamedyassin1/github-readme-stats)
 
 <!--
