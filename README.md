@@ -3,7 +3,6 @@ I'm a 3rd year Software Engineering student studying @ the University of Calgary
 
 Some more about me:
 
----
 ### 🔭 I’m currently working on ...
 * Currently, the project I'm most passionate about is a mental health assistance web application. I initially developed this as a desktop application with two wonderful team members for a Hackathon to help mental health, but considering how much more accessible the web platform is, the goal is for us to release an improved web version of the application so that we can hopefully help people.
 
@@ -14,7 +13,6 @@ Some more about me:
 * If you want to discuss any projects on my repos, software development or tech in general, feel free to connect with me on LinkedIn:
   * [LinkedIn](https://www.linkedin.com/in/mohamed-yassin1/)
 
----
 ### ⚡ Cool GitHub stats 
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedyassin1&show_icons=true&theme=radical)](https://github.com/mohamedyassin1/github-readme-stats)
 
