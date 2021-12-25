@@ -1,7 +1,7 @@
 ## Hey there, I'm Mohamed 👋
 I'm a 3rd year Software Engineering student studying @ the University of Calgary. Problem solving is something that I truly enjoy and it is a privilege to be learning about the field of software developent and tech.
 
-Here's some more interesting info:
+Some more about me:
 
 ---
 ### 🔭 I’m currently working on ...
