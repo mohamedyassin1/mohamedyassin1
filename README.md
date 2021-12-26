@@ -16,7 +16,7 @@ Some more about me:
   * [LinkedIn](https://www.linkedin.com/in/mohamed-yassin1/)
 
 ### ⚡ Cool GitHub stats 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedyassin1&show_icons=true&theme=radical)](https://github.com/mohamedyassin1/github-readme-stats)
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedyassin1&show_icons=true&theme=dark)](https://github.com/mohamedyassin1/github-readme-stats)
 
 <!--
 **mohamedyassin1/mohamedyassin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
