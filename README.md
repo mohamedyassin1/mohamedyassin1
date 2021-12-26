@@ -1,4 +1,4 @@
-![AnimatedBanner](https://user-images.githubusercontent.com/73013959/147422596-c573f4bd-af02-4033-967e-f164d3a48d96.gif)
+![Simple Full Photo Film Production LinkedIn Banner](https://user-images.githubusercontent.com/73013959/147422672-07640ab4-3c55-41ac-8d9d-4d705b7027a6.png)
 
 ## Hey there, I'm Mohamed 👋
 I'm a 3rd year Software Engineering student studying @ the University of Calgary. Problem solving is something that I truly enjoy and it is a privilege to be learning about the field of software engineering and tech.
